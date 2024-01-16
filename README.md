@@ -1,6 +1,6 @@
-# UP IT APS
+# AI Interview Trainer - API
 
-## Go Fiber API
+## Using Go Fiber
 
 **DEMO:** https://www.youtube.com/watch?v=ef2ivitjiBU
 

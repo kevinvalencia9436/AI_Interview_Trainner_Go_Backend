@@ -6,7 +6,7 @@
 
 _Frontend:_ https://github.com/dcrebbin/ai-interview-trainer-frontend
 
-This api is for Up It APS made with [Go Fiber](https://docs.gofiber.io/)
+This api is for Up It APS made with [Go Fiber](https://docs.gofiber.io/) 
 
 Up it APS is a WIP AI powered interview training platform for the Australian Public Service
 

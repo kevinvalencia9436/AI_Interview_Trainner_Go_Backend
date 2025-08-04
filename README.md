@@ -10,7 +10,7 @@ This api is for Up It APS made with [Go Fiber](https://docs.gofiber.io/)
  
 Up it APS is a WIP AI powered interview training platform for the Australian Public Service
 
-However, can be used as a baseline to create an interview training platform for any industry.
+However, can be used as a baseline to create an interview training platform for any industry. 
 
 ## AI Providers Supported
 

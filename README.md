@@ -35,7 +35,7 @@ _Note:_ Vertex AI isn't fully supported as proper auth hasn't been integrated. H
 
 ## Setup
 
-1. [Install GO](https://go.dev/doc/install)
+1. [Install GO](https://go.dev/doc/install) 
 
 1. [Install gcloud CLI](https://cloud.google.com/sdk/docs/install)
 
